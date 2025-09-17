@@ -23,6 +23,7 @@ const App = () => {
     <Router>
   <Routes>
   
+    <Route path="/" element={<Navigate to="/dashboard" />} />
     <Route path="/dashboard" element={<Dashboard />} />
     <Route path="/inbox" element={<Inbox />} />
     <Route path="/profilePage" element = {<ProfilePage/>}/> 
