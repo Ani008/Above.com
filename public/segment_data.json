@@ -1,0 +1,962 @@
+[
+    {
+        "segment":"overnight",
+        "instrument":"callmoney",
+        "volume":10277.19,
+        "weighted_avg_rate":5.1,
+        "rate_range":"3.70 - 5.30",
+        "date":"January 01, 2020"
+    },
+    {
+        "segment":"overnight",
+        "instrument":"triparty repo",
+        "volume":176192.65,
+        "weighted_avg_rate":4.82,
+        "rate_range":"4.00 - 5.15",
+        "date":"January 01, 2020"
+    },
+    {
+        "segment":"overnight",
+        "instrument":"market repo",
+        "volume":69899.94,
+        "weighted_avg_rate":4.75,
+        "rate_range":"1.60 - 5.15",
+        "date":"January 01, 2020"
+    },
+    {
+        "segment":"overnight",
+        "instrument":"callmoney",
+        "volume":10328.76,
+        "weighted_avg_rate":4.96,
+        "rate_range":"3.50 - 5.25",
+        "date":"January 10, 2020"
+    },
+    {
+        "segment":"overnight",
+        "instrument":"triparty repo",
+        "volume":193893.75,
+        "weighted_avg_rate":4.91,
+        "rate_range":"4.70 - 5.00",
+        "date":"January 10, 2020"
+    },
+    {
+        "segment":"overnight",
+        "instrument":"market repo",
+        "volume":61073.77,
+        "weighted_avg_rate":4.77,
+        "rate_range":"1.00 - 5.06",
+        "date":"January 10, 2020"
+    },
+    {
+        "segment":"overnight",
+        "instrument":"callmoney",
+        "volume":11877.95,
+        "weighted_avg_rate":4.99,
+        "rate_range":"3.60 - 5.25",
+        "date":"January 13, 2020"
+    },
+    {
+        "segment":"overnight",
+        "instrument":"triparty repo",
+        "volume":193355.65,
+        "weighted_avg_rate":4.92,
+        "rate_range":"4.80 - 4.94",
+        "date":"January 13, 2020"
+    },
+    {
+        "segment":"overnight",
+        "instrument":"market repo",
+        "volume":65190.93,
+        "weighted_avg_rate":4.85,
+        "rate_range":"2.00 - 5.10",
+        "date":"January 13, 2020"
+    },
+    {
+        "segment":"overnight",
+        "instrument":"callmoney",
+        "volume":8058.74,
+        "weighted_avg_rate":4.99,
+        "rate_range":"3.60 - 5.25",
+        "date":"January 14, 2020"
+    },
+    {
+        "segment":"overnight",
+        "instrument":"triparty repo",
+        "volume":200662.9,
+        "weighted_avg_rate":4.9,
+        "rate_range":"4.84 - 5.00",
+        "date":"January 14, 2020"
+    },
+    {
+        "segment":"overnight",
+        "instrument":"market repo",
+        "volume":64632.08,
+        "weighted_avg_rate":4.76,
+        "rate_range":"2.00 - 5.20",
+        "date":"January 14, 2020"
+    },
+    {
+        "segment":"overnight",
+        "instrument":"callmoney",
+        "volume":6815.97,
+        "weighted_avg_rate":4.97,
+        "rate_range":"3.60 - 5.25",
+        "date":"January 15, 2020"
+    },
+    {
+        "segment":"overnight",
+        "instrument":"triparty repo",
+        "volume":175078.65,
+        "weighted_avg_rate":4.94,
+        "rate_range":"4.90 - 5.14",
+        "date":"January 15, 2020"
+    },
+    {
+        "segment":"overnight",
+        "instrument":"market repo",
+        "volume":65967.83,
+        "weighted_avg_rate":4.61,
+        "rate_range":"0.01 - 5.10",
+        "date":"January 15, 2020"
+    },
+    {
+        "segment":"overnight",
+        "instrument":"callmoney",
+        "volume":6740.73,
+        "weighted_avg_rate":4.96,
+        "rate_range":"3.60 - 5.25",
+        "date":"January 16, 2020"
+    },
+    {
+        "segment":"overnight",
+        "instrument":"triparty repo",
+        "volume":170375.45,
+        "weighted_avg_rate":4.98,
+        "rate_range":"4.88 - 5.10",
+        "date":"January 16, 2020"
+    },
+    {
+        "segment":"overnight",
+        "instrument":"market repo",
+        "volume":65180.19,
+        "weighted_avg_rate":4.63,
+        "rate_range":"0.01 - 5.25",
+        "date":"January 16, 2020"
+    },
+    {
+        "segment":"overnight",
+        "instrument":"callmoney",
+        "volume":8358.14,
+        "weighted_avg_rate":4.95,
+        "rate_range":"3.60 - 5.25",
+        "date":"January 17, 2020"
+    },
+    {
+        "segment":"overnight",
+        "instrument":"triparty repo",
+        "volume":183343.65,
+        "weighted_avg_rate":4.88,
+        "rate_range":"4.80 - 5.15",
+        "date":"January 17, 2020"
+    },
+    {
+        "segment":"overnight",
+        "instrument":"market repo",
+        "volume":67144.04,
+        "weighted_avg_rate":4.61,
+        "rate_range":"1.00 - 5.00",
+        "date":"January 17, 2020"
+    },
+    {
+        "segment":"overnight",
+        "instrument":"callmoney",
+        "volume":17293.42,
+        "weighted_avg_rate":5.12,
+        "rate_range":"3.60 - 5.25",
+        "date":"January 02, 2020"
+    },
+    {
+        "segment":"overnight",
+        "instrument":"triparty repo",
+        "volume":205926.5,
+        "weighted_avg_rate":4.6,
+        "rate_range":"4.00 - 4.91",
+        "date":"January 02, 2020"
+    },
+    {
+        "segment":"overnight",
+        "instrument":"market repo",
+        "volume":73423.42,
+        "weighted_avg_rate":4.6,
+        "rate_range":"1.00 - 5.05",
+        "date":"January 02, 2020"
+    },
+    {
+        "segment":"overnight",
+        "instrument":"callmoney",
+        "volume":1362.71,
+        "weighted_avg_rate":4.69,
+        "rate_range":"4.30 - 5.25",
+        "date":"January 20, 2020"
+    },
+    {
+        "segment":"overnight",
+        "instrument":"triparty repo",
+        "volume":3220.1,
+        "weighted_avg_rate":4.84,
+        "rate_range":"4.00 - 5.25",
+        "date":"January 20, 2020"
+    },
+    {
+        "segment":"overnight",
+        "instrument":"market repo",
+        "volume":340.0,
+        "weighted_avg_rate":1.0,
+        "rate_range":"1.00 - 1.00",
+        "date":"January 20, 2020"
+    },
+    {
+        "segment":"overnight",
+        "instrument":"callmoney",
+        "volume":9979.78,
+        "weighted_avg_rate":4.97,
+        "rate_range":"3.60 - 5.25",
+        "date":"January 21, 2020"
+    },
+    {
+        "segment":"overnight",
+        "instrument":"triparty repo",
+        "volume":193256.3,
+        "weighted_avg_rate":4.96,
+        "rate_range":"4.90 - 5.12",
+        "date":"January 21, 2020"
+    },
+    {
+        "segment":"overnight",
+        "instrument":"market repo",
+        "volume":64532.09,
+        "weighted_avg_rate":4.78,
+        "rate_range":"1.00 - 5.10",
+        "date":"January 21, 2020"
+    },
+    {
+        "segment":"overnight",
+        "instrument":"callmoney",
+        "volume":8377.77,
+        "weighted_avg_rate":4.94,
+        "rate_range":"3.60 - 5.25",
+        "date":"January 22, 2020"
+    },
+    {
+        "segment":"overnight",
+        "instrument":"triparty repo",
+        "volume":199050.1,
+        "weighted_avg_rate":4.99,
+        "rate_range":"4.90 - 5.12",
+        "date":"January 22, 2020"
+    },
+    {
+        "segment":"overnight",
+        "instrument":"market repo",
+        "volume":58449.02,
+        "weighted_avg_rate":4.92,
+        "rate_range":"2.75 - 5.20",
+        "date":"January 22, 2020"
+    },
+    {
+        "segment":"overnight",
+        "instrument":"callmoney",
+        "volume":8990.15,
+        "weighted_avg_rate":4.98,
+        "rate_range":"3.60 - 5.25",
+        "date":"January 23, 2020"
+    },
+    {
+        "segment":"overnight",
+        "instrument":"triparty repo",
+        "volume":195655.6,
+        "weighted_avg_rate":5.0,
+        "rate_range":"4.85 - 5.10",
+        "date":"January 23, 2020"
+    },
+    {
+        "segment":"overnight",
+        "instrument":"market repo",
+        "volume":54566.17,
+        "weighted_avg_rate":4.97,
+        "rate_range":"2.00 - 5.15",
+        "date":"January 23, 2020"
+    },
+    {
+        "segment":"overnight",
+        "instrument":"callmoney",
+        "volume":9915.41,
+        "weighted_avg_rate":4.97,
+        "rate_range":"3.60 - 5.25",
+        "date":"January 24, 2020"
+    },
+    {
+        "segment":"overnight",
+        "instrument":"triparty repo",
+        "volume":186766.35,
+        "weighted_avg_rate":4.99,
+        "rate_range":"4.90 - 5.11",
+        "date":"January 24, 2020"
+    },
+    {
+        "segment":"overnight",
+        "instrument":"market repo",
+        "volume":60131.31,
+        "weighted_avg_rate":4.96,
+        "rate_range":"1.00 - 5.15",
+        "date":"January 24, 2020"
+    },
+    {
+        "segment":"overnight",
+        "instrument":"callmoney",
+        "volume":10087.9,
+        "weighted_avg_rate":4.96,
+        "rate_range":"3.50 - 5.25",
+        "date":"January 27, 2020"
+    },
+    {
+        "segment":"overnight",
+        "instrument":"triparty repo",
+        "volume":189917.05,
+        "weighted_avg_rate":5.0,
+        "rate_range":"4.85 - 5.10",
+        "date":"January 27, 2020"
+    },
+    {
+        "segment":"overnight",
+        "instrument":"market repo",
+        "volume":63793.26,
+        "weighted_avg_rate":4.97,
+        "rate_range":"3.00 - 5.12",
+        "date":"January 27, 2020"
+    },
+    {
+        "segment":"overnight",
+        "instrument":"callmoney",
+        "volume":9019.0,
+        "weighted_avg_rate":4.93,
+        "rate_range":"3.70 - 5.25",
+        "date":"January 28, 2020"
+    },
+    {
+        "segment":"overnight",
+        "instrument":"triparty repo",
+        "volume":180759.8,
+        "weighted_avg_rate":4.98,
+        "rate_range":"4.88 - 5.02",
+        "date":"January 28, 2020"
+    },
+    {
+        "segment":"overnight",
+        "instrument":"market repo",
+        "volume":66833.05,
+        "weighted_avg_rate":4.96,
+        "rate_range":"3.00 - 5.12",
+        "date":"January 28, 2020"
+    },
+    {
+        "segment":"overnight",
+        "instrument":"callmoney",
+        "volume":9517.89,
+        "weighted_avg_rate":4.94,
+        "rate_range":"3.70 - 5.25",
+        "date":"January 29, 2020"
+    },
+    {
+        "segment":"overnight",
+        "instrument":"triparty repo",
+        "volume":184147.25,
+        "weighted_avg_rate":4.97,
+        "rate_range":"4.85 - 5.00",
+        "date":"January 29, 2020"
+    },
+    {
+        "segment":"overnight",
+        "instrument":"market repo",
+        "volume":61423.32,
+        "weighted_avg_rate":4.96,
+        "rate_range":"3.00 - 5.12",
+        "date":"January 29, 2020"
+    },
+    {
+        "segment":"overnight",
+        "instrument":"callmoney",
+        "volume":11801.14,
+        "weighted_avg_rate":5.01,
+        "rate_range":"3.00 - 5.25",
+        "date":"January 03, 2020"
+    },
+    {
+        "segment":"overnight",
+        "instrument":"triparty repo",
+        "volume":231458.45,
+        "weighted_avg_rate":3.95,
+        "rate_range":"1.05 - 4.55",
+        "date":"January 03, 2020"
+    },
+    {
+        "segment":"overnight",
+        "instrument":"market repo",
+        "volume":70503.82,
+        "weighted_avg_rate":4.31,
+        "rate_range":"2.01 - 5.50",
+        "date":"January 03, 2020"
+    },
+    {
+        "segment":"overnight",
+        "instrument":"callmoney",
+        "volume":8731.26,
+        "weighted_avg_rate":4.96,
+        "rate_range":"3.70 - 5.25",
+        "date":"January 30, 2020"
+    },
+    {
+        "segment":"overnight",
+        "instrument":"triparty repo",
+        "volume":174653.05,
+        "weighted_avg_rate":4.94,
+        "rate_range":"4.80 - 5.05",
+        "date":"January 30, 2020"
+    },
+    {
+        "segment":"overnight",
+        "instrument":"market repo",
+        "volume":58056.51,
+        "weighted_avg_rate":4.94,
+        "rate_range":"2.50 - 5.10",
+        "date":"January 30, 2020"
+    },
+    {
+        "segment":"overnight",
+        "instrument":"callmoney",
+        "volume":8799.79,
+        "weighted_avg_rate":4.91,
+        "rate_range":"3.70 - 5.25",
+        "date":"January 31, 2020"
+    },
+    {
+        "segment":"overnight",
+        "instrument":"triparty repo",
+        "volume":184524.5,
+        "weighted_avg_rate":4.91,
+        "rate_range":"4.84 - 5.00",
+        "date":"January 31, 2020"
+    },
+    {
+        "segment":"overnight",
+        "instrument":"market repo",
+        "volume":58864.22,
+        "weighted_avg_rate":4.91,
+        "rate_range":"0.01 - 5.05",
+        "date":"January 31, 2020"
+    },
+    {
+        "segment":"overnight",
+        "instrument":"callmoney",
+        "volume":1356.65,
+        "weighted_avg_rate":4.52,
+        "rate_range":"3.90 - 5.25",
+        "date":"January 06, 2020"
+    },
+    {
+        "segment":"overnight",
+        "instrument":"triparty repo",
+        "volume":3241.45,
+        "weighted_avg_rate":3.57,
+        "rate_range":"1.00 - 4.95",
+        "date":"January 06, 2020"
+    },
+    {
+        "segment":"overnight",
+        "instrument":"callmoney",
+        "volume":9860.35,
+        "weighted_avg_rate":4.9,
+        "rate_range":"2.75 - 5.25",
+        "date":"January 07, 2020"
+    },
+    {
+        "segment":"overnight",
+        "instrument":"triparty repo",
+        "volume":220758.6,
+        "weighted_avg_rate":3.95,
+        "rate_range":"3.37 - 4.94",
+        "date":"January 07, 2020"
+    },
+    {
+        "segment":"overnight",
+        "instrument":"market repo",
+        "volume":66602.33,
+        "weighted_avg_rate":3.69,
+        "rate_range":"0.01 - 4.90",
+        "date":"January 07, 2020"
+    },
+    {
+        "segment":"overnight",
+        "instrument":"callmoney",
+        "volume":8624.86,
+        "weighted_avg_rate":4.91,
+        "rate_range":"3.00 - 5.25",
+        "date":"January 08, 2020"
+    },
+    {
+        "segment":"overnight",
+        "instrument":"triparty repo",
+        "volume":203353.95,
+        "weighted_avg_rate":4.62,
+        "rate_range":"4.00 - 5.13",
+        "date":"January 08, 2020"
+    },
+    {
+        "segment":"overnight",
+        "instrument":"market repo",
+        "volume":65824.94,
+        "weighted_avg_rate":4.2,
+        "rate_range":"0.01 - 4.90",
+        "date":"January 08, 2020"
+    },
+    {
+        "segment":"overnight",
+        "instrument":"callmoney",
+        "volume":8081.17,
+        "weighted_avg_rate":4.91,
+        "rate_range":"3.40 - 5.25",
+        "date":"January 09, 2020"
+    },
+    {
+        "segment":"overnight",
+        "instrument":"triparty repo",
+        "volume":195946.75,
+        "weighted_avg_rate":4.9,
+        "rate_range":"4.70 - 5.13",
+        "date":"January 09, 2020"
+    },
+    {
+        "segment":"overnight",
+        "instrument":"market repo",
+        "volume":63208.22,
+        "weighted_avg_rate":4.61,
+        "rate_range":"0.01 - 5.05",
+        "date":"January 09, 2020"
+    },
+    {
+        "segment":"overnight",
+        "instrument":"callmoney",
+        "volume":14900.15,
+        "weighted_avg_rate":5.03,
+        "rate_range":"3.60 - 5.25",
+        "date":"February 10, 2020"
+    },
+    {
+        "segment":"overnight",
+        "instrument":"triparty repo",
+        "volume":148991.75,
+        "weighted_avg_rate":4.92,
+        "rate_range":"4.65 - 5.05",
+        "date":"February 10, 2020"
+    },
+    {
+        "segment":"overnight",
+        "instrument":"market repo",
+        "volume":75309.02,
+        "weighted_avg_rate":4.96,
+        "rate_range":"0.01 - 5.10",
+        "date":"February 10, 2020"
+    },
+    {
+        "segment":"overnight",
+        "instrument":"callmoney",
+        "volume":14314.29,
+        "weighted_avg_rate":5.02,
+        "rate_range":"3.70 - 5.30",
+        "date":"February 11, 2020"
+    },
+    {
+        "segment":"overnight",
+        "instrument":"triparty repo",
+        "volume":151812.0,
+        "weighted_avg_rate":4.91,
+        "rate_range":"4.78 - 5.03",
+        "date":"February 11, 2020"
+    },
+    {
+        "segment":"overnight",
+        "instrument":"market repo",
+        "volume":75423.46,
+        "weighted_avg_rate":4.96,
+        "rate_range":"4.40 - 5.10",
+        "date":"February 11, 2020"
+    },
+    {
+        "segment":"overnight",
+        "instrument":"callmoney",
+        "volume":13711.3,
+        "weighted_avg_rate":5.0,
+        "rate_range":"3.70 - 5.25",
+        "date":"February 12, 2020"
+    },
+    {
+        "segment":"overnight",
+        "instrument":"triparty repo",
+        "volume":156304.4,
+        "weighted_avg_rate":4.91,
+        "rate_range":"4.75 - 4.95",
+        "date":"February 12, 2020"
+    },
+    {
+        "segment":"overnight",
+        "instrument":"market repo",
+        "volume":73962.73,
+        "weighted_avg_rate":4.95,
+        "rate_range":"0.01 - 5.05",
+        "date":"February 12, 2020"
+    },
+    {
+        "segment":"overnight",
+        "instrument":"callmoney",
+        "volume":9014.11,
+        "weighted_avg_rate":4.93,
+        "rate_range":"3.70 - 5.25",
+        "date":"February 13, 2020"
+    },
+    {
+        "segment":"overnight",
+        "instrument":"triparty repo",
+        "volume":156943.65,
+        "weighted_avg_rate":4.9,
+        "rate_range":"4.80 - 5.00",
+        "date":"February 13, 2020"
+    },
+    {
+        "segment":"overnight",
+        "instrument":"market repo",
+        "volume":72551.56,
+        "weighted_avg_rate":4.93,
+        "rate_range":"3.50 - 5.05",
+        "date":"February 13, 2020"
+    },
+    {
+        "segment":"overnight",
+        "instrument":"callmoney",
+        "volume":11494.01,
+        "weighted_avg_rate":4.96,
+        "rate_range":"3.70 - 5.25",
+        "date":"February 14, 2020"
+    },
+    {
+        "segment":"overnight",
+        "instrument":"triparty repo",
+        "volume":149222.45,
+        "weighted_avg_rate":4.89,
+        "rate_range":"4.75 - 5.00",
+        "date":"February 14, 2020"
+    },
+    {
+        "segment":"overnight",
+        "instrument":"market repo",
+        "volume":76570.3,
+        "weighted_avg_rate":4.91,
+        "rate_range":"2.95 - 5.03",
+        "date":"February 14, 2020"
+    },
+    {
+        "segment":"overnight",
+        "instrument":"callmoney",
+        "volume":1139.33,
+        "weighted_avg_rate":4.64,
+        "rate_range":"4.25 - 5.00",
+        "date":"February 17, 2020"
+    },
+    {
+        "segment":"overnight",
+        "instrument":"triparty repo",
+        "volume":3139.3,
+        "weighted_avg_rate":4.27,
+        "rate_range":"2.25 - 5.49",
+        "date":"February 17, 2020"
+    },
+    {
+        "segment":"overnight",
+        "instrument":"callmoney",
+        "volume":15017.92,
+        "weighted_avg_rate":4.93,
+        "rate_range":"3.70 - 5.25",
+        "date":"February 18, 2020"
+    },
+    {
+        "segment":"overnight",
+        "instrument":"triparty repo",
+        "volume":158892.65,
+        "weighted_avg_rate":4.85,
+        "rate_range":"4.65 - 4.94",
+        "date":"February 18, 2020"
+    },
+    {
+        "segment":"overnight",
+        "instrument":"market repo",
+        "volume":77713.72,
+        "weighted_avg_rate":4.92,
+        "rate_range":"1.00 - 5.10",
+        "date":"February 18, 2020"
+    },
+    {
+        "segment":"overnight",
+        "instrument":"callmoney",
+        "volume":19383.76,
+        "weighted_avg_rate":4.95,
+        "rate_range":"3.70 - 5.25",
+        "date":"February 20, 2020"
+    },
+    {
+        "segment":"overnight",
+        "instrument":"triparty repo",
+        "volume":163563.8,
+        "weighted_avg_rate":4.89,
+        "rate_range":"4.80 - 5.05",
+        "date":"February 20, 2020"
+    },
+    {
+        "segment":"overnight",
+        "instrument":"market repo",
+        "volume":72614.59,
+        "weighted_avg_rate":4.88,
+        "rate_range":"2.00 - 5.05",
+        "date":"February 20, 2020"
+    },
+    {
+        "segment":"overnight",
+        "instrument":"callmoney",
+        "volume":19907.94,
+        "weighted_avg_rate":5.04,
+        "rate_range":"3.70 - 5.25",
+        "date":"February 24, 2020"
+    },
+    {
+        "segment":"overnight",
+        "instrument":"triparty repo",
+        "volume":181381.0,
+        "weighted_avg_rate":5.01,
+        "rate_range":"4.89 - 5.13",
+        "date":"February 24, 2020"
+    },
+    {
+        "segment":"overnight",
+        "instrument":"market repo",
+        "volume":71073.35,
+        "weighted_avg_rate":4.96,
+        "rate_range":"4.05 - 5.25",
+        "date":"February 24, 2020"
+    },
+    {
+        "segment":"overnight",
+        "instrument":"callmoney",
+        "volume":21430.72,
+        "weighted_avg_rate":5.04,
+        "rate_range":"3.70 - 5.25",
+        "date":"February 25, 2020"
+    },
+    {
+        "segment":"overnight",
+        "instrument":"triparty repo",
+        "volume":180015.15,
+        "weighted_avg_rate":4.98,
+        "rate_range":"4.50 - 5.05",
+        "date":"February 25, 2020"
+    },
+    {
+        "segment":"overnight",
+        "instrument":"market repo",
+        "volume":74165.51,
+        "weighted_avg_rate":4.98,
+        "rate_range":"0.01 - 5.45",
+        "date":"February 25, 2020"
+    },
+    {
+        "segment":"overnight",
+        "instrument":"callmoney",
+        "volume":13738.84,
+        "weighted_avg_rate":4.94,
+        "rate_range":"3.70 - 5.25",
+        "date":"February 26, 2020"
+    },
+    {
+        "segment":"overnight",
+        "instrument":"triparty repo",
+        "volume":182835.25,
+        "weighted_avg_rate":4.91,
+        "rate_range":"4.00 - 5.01",
+        "date":"February 26, 2020"
+    },
+    {
+        "segment":"overnight",
+        "instrument":"market repo",
+        "volume":70471.73,
+        "weighted_avg_rate":4.96,
+        "rate_range":"4.00 - 5.10",
+        "date":"February 26, 2020"
+    },
+    {
+        "segment":"overnight",
+        "instrument":"callmoney",
+        "volume":15056.57,
+        "weighted_avg_rate":4.93,
+        "rate_range":"3.70 - 5.25",
+        "date":"February 27, 2020"
+    },
+    {
+        "segment":"overnight",
+        "instrument":"triparty repo",
+        "volume":179831.75,
+        "weighted_avg_rate":4.84,
+        "rate_range":"4.60 - 4.90",
+        "date":"February 27, 2020"
+    },
+    {
+        "segment":"overnight",
+        "instrument":"market repo",
+        "volume":75361.83,
+        "weighted_avg_rate":4.79,
+        "rate_range":"1.00 - 5.00",
+        "date":"February 27, 2020"
+    },
+    {
+        "segment":"overnight",
+        "instrument":"callmoney",
+        "volume":16997.92,
+        "weighted_avg_rate":4.9,
+        "rate_range":"3.70 - 5.25",
+        "date":"February 28, 2020"
+    },
+    {
+        "segment":"overnight",
+        "instrument":"triparty repo",
+        "volume":175652.15,
+        "weighted_avg_rate":4.8,
+        "rate_range":"4.50 - 4.96",
+        "date":"February 28, 2020"
+    },
+    {
+        "segment":"overnight",
+        "instrument":"market repo",
+        "volume":73049.95,
+        "weighted_avg_rate":4.74,
+        "rate_range":"2.65 - 4.95",
+        "date":"February 28, 2020"
+    },
+    {
+        "segment":"overnight",
+        "instrument":"callmoney",
+        "volume":659.6,
+        "weighted_avg_rate":4.7,
+        "rate_range":"4.25 - 5.05",
+        "date":"February 03, 2020"
+    },
+    {
+        "segment":"overnight",
+        "instrument":"triparty repo",
+        "volume":3696.5,
+        "weighted_avg_rate":4.39,
+        "rate_range":"3.00 - 5.15",
+        "date":"February 03, 2020"
+    },
+    {
+        "segment":"overnight",
+        "instrument":"callmoney",
+        "volume":11233.22,
+        "weighted_avg_rate":4.94,
+        "rate_range":"3.70 - 5.25",
+        "date":"February 04, 2020"
+    },
+    {
+        "segment":"overnight",
+        "instrument":"triparty repo",
+        "volume":191987.05,
+        "weighted_avg_rate":4.89,
+        "rate_range":"4.75 - 5.05",
+        "date":"February 04, 2020"
+    },
+    {
+        "segment":"overnight",
+        "instrument":"market repo",
+        "volume":64013.33,
+        "weighted_avg_rate":4.85,
+        "rate_range":"3.00 - 5.15",
+        "date":"February 04, 2020"
+    },
+    {
+        "segment":"overnight",
+        "instrument":"callmoney",
+        "volume":13712.48,
+        "weighted_avg_rate":4.98,
+        "rate_range":"3.70 - 5.25",
+        "date":"February 05, 2020"
+    },
+    {
+        "segment":"overnight",
+        "instrument":"triparty repo",
+        "volume":169751.3,
+        "weighted_avg_rate":4.92,
+        "rate_range":"4.87 - 5.05",
+        "date":"February 05, 2020"
+    },
+    {
+        "segment":"overnight",
+        "instrument":"market repo",
+        "volume":65490.35,
+        "weighted_avg_rate":4.9,
+        "rate_range":"2.50 - 5.10",
+        "date":"February 05, 2020"
+    },
+    {
+        "segment":"overnight",
+        "instrument":"callmoney",
+        "volume":10590.22,
+        "weighted_avg_rate":4.93,
+        "rate_range":"3.70 - 5.25",
+        "date":"February 6, 2020"
+    },
+    {
+        "segment":"overnight",
+        "instrument":"triparty repo",
+        "volume":160179.9,
+        "weighted_avg_rate":4.94,
+        "rate_range":"4.80 - 4.97",
+        "date":"February 6, 2020"
+    },
+    {
+        "segment":"overnight",
+        "instrument":"market repo",
+        "volume":65559.42,
+        "weighted_avg_rate":4.96,
+        "rate_range":"4.00 - 5.10",
+        "date":"February 6, 2020"
+    },
+    {
+        "segment":"overnight",
+        "instrument":"callmoney",
+        "volume":13723.99,
+        "weighted_avg_rate":5.0,
+        "rate_range":"3.70 - 5.25",
+        "date":"February 07, 2020"
+    },
+    {
+        "segment":"overnight",
+        "instrument":"triparty repo",
+        "volume":161841.8,
+        "weighted_avg_rate":4.94,
+        "rate_range":"4.75 - 5.04",
+        "date":"February 07, 2020"
+    },
+    {
+        "segment":"overnight",
+        "instrument":"market repo",
+        "volume":63523.77,
+        "weighted_avg_rate":4.96,
+        "rate_range":"4.20 - 5.20",
+        "date":"February 07, 2020"
+    }
+]
